@@ -4,8 +4,6 @@ This repo contains a set of tutorials for Hadoop designed to work inside or alon
 
 ![image](sandbox.png?raw=true)
 
-Please feel free to recommend edits to existing tutorials, and contribute your own. New contributions should be placed in the '[Community](/community)' folder.
-
 Current tutorials are as follows:
 
 ###Sandbox Tutorials (Embedded in Sandbox and tested with v2.0)
